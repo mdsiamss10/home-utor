@@ -6,11 +6,16 @@ function English() {
           <h1 className={styles.name}>SIAM</h1>
       </nav>
       <div className={styles.box}>
-        <h2>27/2/2022</h2>
-        <h4>To match a dynamic segment, you can use the bracket syntax. This allows you to match named parameters.</h4><hr/>
-
-        <h2>28/2/2022</h2>
-        <h4>To match a dynamic segment, you can use the bracket syntax. This allows you to match named parameters.</h4><hr/>
+        <div className={styles.hw_1}>
+        <h2>26/2/2022</h2>
+        <ul>
+          <li>339 page 1,2</li>
+          <li>345 page 1,2</li>
+          <li>348 page 1,2</li>
+          <li>286 page Abolish - Entertain</li>
+        </ul>
+        <hr/>
+        </div>
       </div>
     </div>
   )

@@ -57,3 +57,9 @@
   padding: 20px;
   font-family: 'Shippori Antique B1', sans-serif;
 }
+.img {
+  width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin-top: 3px;
+}
