@@ -6,7 +6,7 @@ function Math() {
   return (
     <div>
       <nav className={styles.nav}>
-          <h1 className={styles.name}>SIAM</h1>
+          <h1 className={styles.name}>MATH</h1>
       </nav>
       <div className={styles.box}>
 

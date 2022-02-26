@@ -3,7 +3,7 @@ function English() {
   return (
     <div>
       <nav className={styles.nav}>
-          <h1 className={styles.name}>SIAM</h1>
+          <h1 className={styles.name}>ENGLISH</h1>
       </nav>
       <div className={styles.box}>
 
