@@ -10,6 +10,9 @@ function Subject() {
     <Link href="/Math">
       <button className={styles.subButton}>Math</button>
     </Link>
+    <Link href="/Exam">
+      <button className={styles.subButton}>Exams</button>
+    </Link>
   </div>
   )
 }
