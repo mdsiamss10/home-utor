@@ -6,7 +6,6 @@ function exams() {
           <h1 className={styles.name}>EXAMS</h1>
       </nav>
       <div className={styles.box}>
-
         <div className={styles.exams}>
             <h2>English: (4/3/2022)</h2>
             <h4>Email:</h4>

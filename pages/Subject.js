@@ -13,6 +13,9 @@ function Subject() {
     <Link href="/Exam">
       <button className={styles.subButton}>Exams</button>
     </Link>
+    <Link href="/Others">
+      <button className={styles.subButton}>Others</button>
+    </Link>
   </div>
   )
 }
