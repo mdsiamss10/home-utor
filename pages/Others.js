@@ -20,12 +20,12 @@ function Others() {
             </div>
             <div className="b1">
                 <h2>B1:</h2>
-                <h3>Nothing.</h3>
+                <h3>অতিথির স্মৃতি গল্পের সৃজনশীল।</h3>
                 <hr/>
             </div>
             <div className="b2">
                 <h2>B2:</h2>
-                <h3>Nothing.</h3>
+                <h3>ধ্বনি ও বর্ণ পড়া.</h3>
                 <hr/>
             </div>
             <div className="rg">
