@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/link-passhref */
 import Link from 'next/link';
 import styles from '../styles/Home.module.css';
 function Subject() {

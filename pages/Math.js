@@ -1,6 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
-/* eslint-disable jsx-a11y/alt-text */
-import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 function Math() {
   return (

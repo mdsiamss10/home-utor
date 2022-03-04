@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/link-passhref */
 import styles from '../styles/Home.module.css';
 import Subject from './Subject';
 function Header() {
