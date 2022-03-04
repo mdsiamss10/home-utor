@@ -9,7 +9,7 @@ function Math() {
 
         <div className={styles.hw_1}>
           <h2>2/3/2022</h2>
-          <h4>Exam's lessons revision.</h4>
+          <h4>Exam&apos;s lessons revision.</h4>
           <hr/>
         </div>
 
