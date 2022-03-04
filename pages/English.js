@@ -8,12 +8,12 @@ function English() {
       <div className={styles.box}>
 
         <div className={styles.hw_1}>
-          <h2>26/2/2022</h2>
+          <h2>3/3/2022</h2>
           <ul>
-            <li>339 page 2,4. (Advance)</li>
-            <li>345 page 2,4. (Advance)</li>
-            <li>348 page 2,4. (Advance)</li>
-            <li>286 page Farm - Interpret. (Advance)</li>
+            <li>339 page 5,6. (Advance)</li>
+            <li>345 page 5,6. (Advance)</li>
+            <li>348 page 5,6. (Advance)</li>
+            <li>287 page Kill - Charm. (Advance: Siffix Prefix)</li>
           </ul>
           <hr/>
         </div>
