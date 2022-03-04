@@ -13,7 +13,7 @@ function English() {
             <li>339 page 5,6. (Advance)</li>
             <li>345 page 5,6. (Advance)</li>
             <li>348 page 5,6. (Advance)</li>
-            <li>287 page Kill - Charm. (Advance: Siffix Prefix)</li>
+            <li>287 page Kill - Charm. (Advance: Suffix Prefix)</li>
           </ul>
           <hr/>
         </div>
