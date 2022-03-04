@@ -11,10 +11,8 @@ function Math() {
       <div className={styles.box}>
 
         <div className={styles.hw_1}>
-          <h2>26/2/2022</h2>
-          <h4>এই গুলো করতে হবেঃ</h4>
-          <a href="https://res.cloudinary.com/dpm3f0tz8/image/upload/v1645901383/273816033_1718626798341874_4747002746406077234_n_xwphfd.jpg"><img className={styles.img} src="https://res.cloudinary.com/dpm3f0tz8/image/upload/v1645901383/273816033_1718626798341874_4747002746406077234_n_xwphfd.jpg"/></a>
-          <a href="https://res.cloudinary.com/dpm3f0tz8/image/upload/v1645901374/273066196_3061798344075635_3851781656114784353_n_w2pzpd.jpg"><img className={styles.img} src="https://res.cloudinary.com/dpm3f0tz8/image/upload/v1645901374/273066196_3061798344075635_3851781656114784353_n_w2pzpd.jpg"/></a>
+          <h2>2/3/2022</h2>
+          <h4>Exam's lessons revision.</h4>
           <hr/>
         </div>
 
